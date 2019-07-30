@@ -1,2 +1,2 @@
-class Demo{
-        }
+echo "第一次见到你"
+echo "下意识地感觉到自卑"
